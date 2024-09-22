@@ -1,0 +1,50 @@
+body{
+    
+    
+}
+.container{
+    background-color:hsl(47, 88%, 63%);
+    
+    
+}
+.costum-card{
+    border-radius: 13px;
+}
+p{
+    font-size: 14px;
+    color: hsl(0, 0%, 42%);
+}
+span{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: inline-block;
+    width: 80px;
+    text-align: center;
+    border-radius: 4px;
+    padding: 4;
+    
+}
+img{
+    position: relative;
+    max-width: 90%;
+    top: 16px;
+    left: 15px;
+    border-radius: 8px;
+    
+}
+.card  {
+    margin: 5rem;
+}
+
+.author-image{
+    position:relative;
+    right: 23;
+    width: 45;
+    bottom: 15;
+  
+}
+.author-name {
+    position: relative;
+    right: 11px;
+    top: 2px;
+}
+
