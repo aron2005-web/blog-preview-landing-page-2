@@ -9,6 +9,7 @@ body{
 }
 .costum-card{
     border-radius: 13px;
+    box-shadow: 5px 9px 3px black;
 }
 p{
     font-size: 14px;
