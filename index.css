@@ -48,4 +48,8 @@ img{
     right: 11px;
     top: 2px;
 }
+.card {
+    width: 90%;
+    max-width: 37.5rem;
+    }
 
